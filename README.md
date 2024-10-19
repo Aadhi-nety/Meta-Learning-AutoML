@@ -18,3 +18,10 @@ This project explores Meta-Learning, focusing on building systems that can learn
    git clone https://github.com/your-username/Meta-Learning-AutoML.git
    pip install -r requirements.txt
    python src/automl.py
+
+data/: For datasets.
+notebooks/: For Jupyter notebooks or scripts.
+src/: For source code.
+reports/: For performance reports and outputs.
+README.md: For project documentation.
+requirements.txt: To list project dependencies.
