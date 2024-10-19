@@ -19,3 +19,16 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+#### 6. **Add Dependencies**
+List all required packages in `requirements.txt`. For H2O, you might include:
+
+
+#### 7. **Commit and Push Changes**
+After adding your code and documentation, commit your changes and push them to GitHub:
+
+```bash
+git add .
+git commit -m "Initial commit: Implement AutoML with H2O"
+git push origin main
