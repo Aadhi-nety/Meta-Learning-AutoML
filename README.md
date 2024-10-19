@@ -14,7 +14,7 @@ This project explores Meta-Learning, focusing on building systems that can learn
 
 ## Setup Instructions
 1. Clone the repository:
-  `bash
+  `bash""
    git clone https://github.com/your-username/Meta-Learning-AutoML.git
    pip install -r requirements.txt
    python src/automl.py
